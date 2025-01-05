@@ -9,7 +9,7 @@ export default function Home() {
           <Image src="/profile.jpg" alt="Your Name" width={200} height={200} className="rounded-full border-4 border-purple-600 shadow-lg" />
         </div>
         <h1 className="text-4xl md:text-5xl font-bold mb-4 animate-fade-in">Welcome to My Portfolio</h1>
-        <p className="text-xl mb-8 animate-fade-in-delay">Hi, I'm Muhammad Naveed. I'm a web developer passionate about creating beautiful and functional websites.</p>
+        <p className="text-xl mb-8 animate-fade-in-delay">Hi, I&apos;m Muhammad Naveed. I&apos;m a web developer passionate about creating beautiful and functional websites.</p>
         <div className="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4 animate-fade-in-delay">
           <Link href="/Projects" className="bg-purple-600 text-white px-6 py-3 rounded-full font-semibold hover:bg-purple-700 transition-colors">
             View My Work
