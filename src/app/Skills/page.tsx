@@ -18,22 +18,38 @@ export default function Skills() {
     {
       name: 'Frontend',
       skills: [
-        { name: 'React', level: 90 },
-        { name: 'Next.js', level: 85 },
-        { name: 'TypeScript', level: 80 },
-        { name: 'CSS', level: 85 },
+        { name: "HTML", level: 95 },
+        { name: "CSS / Tailwind CSS", level: 90 },
+        { name: "JavaScript", level: 85 },
+        { name: "React.js", level: 90 },
+        { name: "Next.js", level: 85 },
+        { name: "Headless CMS (e.g. Sanity)", level: 75 },
+        { name: "TypeScript", level: 80 },
+        { name: "Responsive Design", level: 90 },
+        { name: "UI/UX Principles", level: 75 },
       ]
     },
     {
       name: 'Backend',
       skills: [
-        { name: 'Node.js', level: 75 },
+        { name: "Node.js", level: 80 },
+        { name: "Express.js", level: 80 },
+        { name: "MongoDB", level: 85 },
+        { name: "RESTful APIs", level: 90 },
+        { name: "Authentication (JWT, NextAuth)", level: 75 },
+        { name: "Python", level: 75 },
+        { name: "OpenAI SDK ", level: 70 },
       ]
     },
     {
       name: 'Tools & Others',
       skills: [
-        { name: 'Git', level: 85 },
+        { name: "Git & GitHub", level: 85 },
+        { name: "Figma / UI Design Tools", level: 70 },
+        { name: "Postman", level: 80 },
+        { name: "VS Code", level: 90 },
+        { name: "Vercel / Netlify", level: 85 },
+    { name: "Docker (basic)", level: 50 },
       ]
     }
   ]

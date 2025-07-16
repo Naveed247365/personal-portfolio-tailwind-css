@@ -3,6 +3,12 @@ import Image from 'next/image'
 const projects = [
   {
     title: "E-commerce website",
+    description: "A responsive e-commerce website using React, MongoDB, and Next.js.",
+    image: "/ecomm.png",
+    link: "https://e-comm-naveed.vercel.app/"
+  },
+  {
+    title: "E-commerce website",
     description: "A responsive e-commerce website using React and Next.js.",
     image: "/ecom.png",
     link: "https://multi-page-website-tailwind-css-indol.vercel.app/"
